@@ -15,5 +15,5 @@ A geologist who is learning a little about data science. I find it fascinating t
 ## Projetos:
 
 * [Airbnb-Montreal](https://github.com/brenocavi/Presentation/blob/main/Copy_of_%5BTemplate%5D_Analisando_os_Dados_do_Airbnb.ipynb)
-
+* [Paranomara COVID-19](https://github.com/brenocavi/Panorama-COIVD-19/blob/main/Panorama_do_COVID_19_no_Brasil.ipynb)
 ---
