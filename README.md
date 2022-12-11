@@ -14,6 +14,7 @@ A geologist who is learning a little about data science. I find it fascinating t
 
 ## Projetos:
 
-* [Airbnb-Montreal](https://github.com/brenocavi/Presentation/blob/main/Copy_of_%5BTemplate%5D_Analisando_os_Dados_do_Airbnb.ipynb)
+* [Airbnb-Montreal](https://github.com/brenocavi/Dados-Airbnb-Montreal-CA-2022-/blob/main/Analisando_os_Dados_do_Airbnb.ipynb)
 * [Paranomara COVID-19](https://github.com/brenocavi/Panorama-COIVD-19/blob/main/Panorama_do_COVID_19_no_Brasil.ipynb)
+* [Decteção Fraude Cartão de Crédito] (https://github.com/brenocavi/Credit-car-fraud/blob/main/Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
 ---
